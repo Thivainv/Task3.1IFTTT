@@ -3,7 +3,7 @@
 #include <WiFiNINA.h>
 
 // ─── WIFI & IFTTT SETUP ───────────────────────────────────────────────────────
-const char* WIFI_SSID   = "SITHUM's S24 FE";
+const char* WIFI_SSID   = "SUN's S24 FE";
 const char* WIFI_PASS   = "12345678";
 
 const char* IFTTT_HOST  = "maker.ifttt.com";
